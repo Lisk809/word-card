@@ -29,4 +29,6 @@
 
 本程序通过[MIT协议](https://github.com/Lisk809/word-card/blob/main/LICENSE)开源
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLisk809%2Fword-card.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLisk809%2Fword-card?ref=badge_large)
+
 **Author: Lisk**
