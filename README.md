@@ -1,5 +1,6 @@
 # 单词卡 for miband7
-
+![author](https://img.shields.io/badge/author-Lisk-green)
+![miband](https://img.shields.io/badge/miband-7-blue)
 预览图:
 ![预览图](preview.png)
 
